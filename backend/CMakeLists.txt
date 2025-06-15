@@ -19,4 +19,4 @@ include_directories("include")
 
 include("cmake/test_exe.cmake")
 include("cmake/synth_exe.cmake")
-include("cmake/MIDIReader.cmake")
+include("cmake/SimpleMIDIReaderExample.cmake")
